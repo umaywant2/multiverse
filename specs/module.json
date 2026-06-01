@@ -1,1 +1,142 @@
+{
+  "module": {
+    "name": "Project Multiverse",
+    "version": "1.0.0",
+    "category": "continuity-worlds",
+    "summary": "Foundational research module for continuity worlds: layered, persistent, identity-coherent environments and world-level architectures.",
+    "purpose": "Provide the structural, conceptual, and computational substrate for open research into continuity worlds, world operators, multi-layer world stacks, resonance-aligned world transitions, and RTT-aligned continuity and drift frameworks."
+  },
 
+  "files": [
+    {
+      "path": "overview/mission.md",
+      "role": "profile",
+      "analyzer_layer": "regime",
+      "description": "Defines the mission, scope, and long-arc intent of Project Multiverse."
+    },
+    {
+      "path": "overview/roadmap.md",
+      "role": "profile",
+      "analyzer_layer": "regime",
+      "description": "Outlines the phased roadmap for continuity-world research and development."
+    },
+    {
+      "path": "overview/use-of-rtt.md",
+      "role": "profile",
+      "analyzer_layer": "cross-cutting",
+      "description": "Explains how RTT/1, RTT/2, and RTT/3 enable continuity worlds, world stacks, and drift-bounded evolution."
+    },
+
+    {
+      "path": "specs/module.json",
+      "role": "signature",
+      "analyzer_layer": "operator",
+      "description": "Canonical manifest describing the identity, structure, and purpose of the Multiverse module."
+    },
+    {
+      "path": "specs/operators.md",
+      "role": "engine",
+      "analyzer_layer": "operator",
+      "description": "Defines the W-operator grammar for world actions: spawning, framing, evolving, bridging, transferring, and verifying worlds."
+    },
+    {
+      "path": "specs/session-context.md",
+      "role": "engine",
+      "analyzer_layer": "coherence",
+      "description": "Session context block for structural AIs working within Project Multiverse."
+    },
+
+    {
+      "path": "research/papers.md",
+      "role": "reference",
+      "analyzer_layer": "cross-cutting",
+      "description": "Index of foundational papers, models, and long-arc research outputs on continuity worlds."
+    },
+    {
+      "path": "research/open-questions.md",
+      "role": "map",
+      "analyzer_layer": "regime",
+      "description": "Structured list of unresolved scientific questions guiding continuity-world research."
+    },
+    {
+      "path": "research/simulations.md",
+      "role": "engine",
+      "analyzer_layer": "dimensional",
+      "description": "Simulation engines and models for world stacks, world transitions, and continuity-preserving evolution."
+    },
+
+    {
+      "path": "students/getting-started.md",
+      "role": "example",
+      "analyzer_layer": "operator",
+      "description": "Onboarding guide for students entering Project Multiverse."
+    },
+    {
+      "path": "students/tasks.md",
+      "role": "example",
+      "analyzer_layer": "regime",
+      "description": "Structured list of student-friendly tasks for continuity-world research."
+    },
+    {
+      "path": "students/contribute.md",
+      "role": "template",
+      "analyzer_layer": "cross-cutting",
+      "description": "Contribution guidelines for students, researchers, and structural AIs working on Multiverse."
+    },
+
+    {
+      "path": "ai/agents.md",
+      "role": "engine",
+      "analyzer_layer": "coherence",
+      "description": "Definitions and behaviors of AI agents supporting continuity-world research."
+    },
+    {
+      "path": "ai/prompts.md",
+      "role": "engine",
+      "analyzer_layer": "operator",
+      "description": "RTT-aligned prompt patterns for structural AIs assisting with Multiverse tasks."
+    },
+    {
+      "path": "ai/rtt-integration.md",
+      "role": "reference",
+      "analyzer_layer": "cross-cutting",
+      "description": "Technical notes on how RTT integrates with continuity worlds, world stacks, and drift detection."
+    }
+  ],
+
+  "exports": [
+    "overview/mission.md",
+    "overview/roadmap.md",
+    "overview/use-of-rtt.md",
+    "specs/operators.md",
+    "research/simulations.md"
+  ],
+
+  "imports": [
+    {
+      "module": "RTT",
+      "version": "3.x",
+      "paths": [
+        "operators/",
+        "engines/",
+        "coherence/"
+      ]
+    },
+    {
+      "module": "Project Bubble Gum",
+      "version": "1.x",
+      "paths": [
+        "specs/operators.md",
+        "research/simulations.md"
+      ]
+    },
+    {
+      "module": "Project Manifestation",
+      "version": "1.x",
+      "paths": [
+        "specs/operators.md",
+        "research/simulations.md"
+      ]
+    }
+  ]
+}
