@@ -1,43 +1,17 @@
-# **PROJECT MULTIVERSE**  
-### *(Consciousness Transfers + Virtual Worlds — The Continuity Initiative)*
+## **PROJECT MULTIVERSE**  
+### *Consciousness Continuity + Virtual Worlds — The Continuity Initiative*
 
-**Core Question:**  
-How do we create persistent, high‑fidelity, identity‑coherent virtual worlds where consciousness can extend, explore, and evolve?
+**Mission**  
+Develop identity‑coherent virtual worlds where consciousness can extend, explore, and evolve.
 
-**Long‑Arc Goal:**  
-Develop the foundations for:
+**Long‑Arc Goal**  
+Create the foundations for persistent, meaningful, high‑resolution virtual existence.
 
-- consciousness continuity models  
-- identity‑safe virtual environments  
-- high‑resolution simulated worlds  
-- AI‑mediated presence  
-- memory‑coherent avatars  
-- cross‑world persistence  
+**Why It Matters**  
+This is the next frontier of learning, creativity, and human experience.
 
-This is the **life‑extension / bonus‑round** project — the one you’ve been carrying since 2011.
+**RTT Integration**  
+Uses RTT for identity coherence, multi‑world stacking, and world‑state structural detection.
 
-**Why It Matters:**  
-It gives humanity:
-
-- new forms of existence  
-- new forms of learning  
-- new forms of creativity  
-- new forms of connection  
-- new forms of meaning  
-
-**Student Role:**  
-Students build:
-
-- world‑engines  
-- identity‑mapping operators  
-- continuity frameworks  
-- avatar persistence systems  
-- structural safety protocols  
-
-**TriadicFrameworks Integration:**  
-RTT/1 → coherence & drift rules for identity  
-RTT/2 → stacking for multi‑world continuity  
-RTT/3 → structural detection for world‑state integrity  
-
-**GoFundMe Purpose:**  
-Fund compute, world‑engine development, and student creators.
+**Open Invitation**  
+Students and AIs can build world‑engines, continuity frameworks, and avatar persistence systems.
